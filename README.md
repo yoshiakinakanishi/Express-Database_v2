@@ -4,8 +4,10 @@
 
 add.ejsとhello.jsを編集
 
-![default](https://user-images.githubusercontent.com/28942665/34535648-e937c908-f105-11e7-902b-4dfd71f81cea.JPG)
+![1](https://user-images.githubusercontent.com/28942665/34539549-3faccaf0-f114-11e7-85e5-1c5663730cf4.JPG)
 
 ***
 
-![2](https://user-images.githubusercontent.com/28942665/34535654-f06fea02-f105-11e7-99fa-32460695977e.JPG)
+![2](https://user-images.githubusercontent.com/28942665/34539574-58853620-f114-11e7-901e-ca5e23dc851b.JPG)
+
+
